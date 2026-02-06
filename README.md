@@ -2,6 +2,9 @@
 
 A PyBullet simulation for the OWL 68 robot arm with 3Dconnexion SpaceMouse control. Control the robot's end-effector in Cartesian space using intuitive SpaceMouse inputs.
 
+## Clone:
+https://github.com/orangewood-co/owl_68_robot_description.git
+
 ## Features
 
 - **Cartesian End-Effector Control**: Move the robot TCP (Tool Center Point) in X, Y, Z space using inverse kinematics
